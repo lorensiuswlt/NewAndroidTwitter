@@ -8,7 +8,7 @@ If you are using NewAndroidTwitter in your app and would like to be listed here,
 
 Also, you can follow me on Twitter : [@lorensiuswlt][1] or visit my blog [www.londatiga.net][2]
 
-![Example Image](http://londatiga.net/images/android_twitter_api.png) 
+![Example Image](http://londatiga.net/images/android_twitter_api2.png) 
 
 Setup
 -----

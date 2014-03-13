@@ -8,6 +8,8 @@ If you are using NewAndroidTwitter in your app and would like to be listed here,
 
 Also, you can follow me on Twitter : [@lorensiuswlt][1] or visit my blog [www.londatiga.net][2]
 
+![Example Image](http://londatiga.net/images/android_twitter_api.png) 
+
 Setup
 -----
 * In Eclipse, just import the library as an Android library project. Project > Clean to generate the binaries 
